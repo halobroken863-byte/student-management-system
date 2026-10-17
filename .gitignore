@@ -1,0 +1,15 @@
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow safe example configuration files
+!.env.example
+
+# Generated build files
+dist/
+build/
+coverage/
